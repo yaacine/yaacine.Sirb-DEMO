@@ -113,7 +113,7 @@
   -ms-user-select: none;
   user-select: none;
 }
-.owl-carousel .owl-item img {
+.owl-carousel . img {
   display: block;
   width: 100%;
   -webkit-transform-style: preserve-3d;
