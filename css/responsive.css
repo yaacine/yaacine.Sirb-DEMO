@@ -210,10 +210,8 @@
     }
     .gallery-slide {
         margin-bottom: 60px;
-        margin-right: 20px
     }
     .gallery-slide .item {
-        margin: 85px 25px 90px 30px;
     }
     .gallery-slide .owl-controls {
         position: static;
